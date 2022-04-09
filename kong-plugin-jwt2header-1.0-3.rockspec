@@ -1,8 +1,8 @@
-package = "kong-jwt2header"
+package = "kong-jwt2header-raftx24"
 version = "1.0-3"
 
 source = {
-  url = "git://github.com/yesinteractive/kong-jwt2header.git"
+  url = "https://github.com/raftx24/kong-jwt2header.git"
 }
 
 description = {
